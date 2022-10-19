@@ -1,4 +1,4 @@
-基于HL32F030MF4P6
+基于HK32F030MF4P6
 硬件I2c 读取温湿度 DHT10
 硬件SPI  OLED显示
 uart 串口输出
